@@ -3,8 +3,6 @@ Dashboard – Automatización con n8n y Google Sheets
 
 Automatiza completamente la recolección, almacenamiento, respuesta y visualización de datos desde formularios web utilizando [n8n](https://n8n.io/), Google Sheets.
 
-Ideal para proyectos freelance, clientes que quieren ahorrar tiempo, atención al cliente inteligente, y negocios que buscan una solución económica pero poderosa sin pagar plataformas externas.
-
 ---
 ## 🌟 Funcionalidades principales
 
@@ -60,7 +58,6 @@ Ideal para proyectos freelance, clientes que quieren ahorrar tiempo, atención a
 
 - Formularios inteligentes para servicios
 
-
 - Reportes centralizados con dashboard en tiempo real
 ---
 📈 Escalabilidad
@@ -76,8 +73,6 @@ Este proyecto puede escalarse fácilmente:
 - Autenticación de usuarios
 
 - Panel admin con edición y filtrado
-
-Deploy en servidores reales o Vercel
 
 ---
 🙌 Contáctame
