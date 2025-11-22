@@ -1,20 +1,21 @@
 Dashboard – Automatización con n8n y Google Sheets
 -
 
-Automatiza completamente la recolección, almacenamiento, respuesta y visualización de datos desde formularios web utilizando [n8n](https://n8n.io/), Google Sheets.
+Dashboard Inteligente – Automatización con n8n + Google Sheets + IA
+Optimiza tu negocio automatizando la recolección, almacenamiento y visualización de datos desde cualquier formulario web
 
 ---
-## 🌟 Funcionalidades principales
+🌟 ¿Qué hace esta solución?
 
+Formulario moderno y rápido (HTML/CSS/JS)
 
--✅ Formulario web moderno y adaptable (HTML/CSS/JS)
+Guarda los datos automáticamente en Google Sheets o el sistema que uses
 
--✅ Almacena datos automáticamente en Google Sheets u otras plataformas (Configurable)
+Responde al cliente al instante (opcional con IA)
 
--✅ Lee registros y los visualiza en un dashboard en tiempo real
+Dashboard en tiempo real para ver todos los registros
 
--✅ Totalmente personalizable y reutilizable para múltiples clientes
-
+Funciona 100% solo. No tienes que hacer nada.
 ---
 🖥️ Demo y vista previa
 -
@@ -40,25 +41,25 @@ Automatiza completamente la recolección, almacenamiento, respuesta y visualizac
 ---
 ## 📌 ¿Cómo funciona?
 
-
-1. 🧾 El usuario completa el formulario (`index.html`).
-
-2. 🔗 Se envían los datos al Webhook POST de n8n.
-
-3. 📄 n8n guarda los datos automáticamente en Google Sheets.
-
-4. 📊 Desde el `dashboard.html`, se hace un `GET` a otro webhook de n8n que **lee** los datos desde Sheets y los muestra visualmente.
+1️⃣ El usuario completa el formulario en tu página
+2️⃣ Los datos llegan a n8n automáticamente
+3️⃣ Se guardan en Google Sheets
+4️⃣ Un dashboard muestra todo en tiempo real
+5️⃣ (Opcional) El sistema envía respuestas automáticas al correo del cliente
 
 ---
-🎯 Casos de uso
--
+🎯 Casos de uso reales
 
+Recepción de solicitudes o reclamos
 
-- Recepción de solicitudes o reclamos
+Formularios de servicios
 
-- Formularios inteligentes para servicios
+Reservas o atención al cliente
 
-- Reportes centralizados con dashboard en tiempo real
+Empresas que necesitan reportes automáticos
+
+Negocios que quieren reducir tareas repetitivas
+
 ---
 📈 Escalabilidad
 -
