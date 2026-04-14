@@ -1,8 +1,7 @@
 Dashboard – Automatización con n8n y Google Sheets
 -
 
-Dashboard Inteligente – Automatización con n8n + Google Sheets + IA
-Optimiza tu negocio automatizando la recolección, almacenamiento y visualización de datos desde cualquier formulario web
+Dashboard Inteligente Automatizado con n8n + Google Sheets + IA
 
 ---
 ¿Qué hace esta solución?
