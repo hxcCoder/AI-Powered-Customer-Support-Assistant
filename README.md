@@ -25,7 +25,7 @@ Funciona 100% solo. No tienes que hacer nada.
 
 
 ---
-## 🧩 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 
 - HTML5 + CSS3 + JavaScript
@@ -39,16 +39,16 @@ Funciona 100% solo. No tienes que hacer nada.
 - Docker (para desarrollo local con n8n)
 
 ---
-## 📌 ¿Cómo funciona?
+##  ¿Cómo funciona?
 
-1️⃣ El usuario completa el formulario en tu página
-2️⃣ Los datos llegan a n8n automáticamente
-3️⃣ Se guardan en Google Sheets
-4️⃣ Un dashboard muestra todo en tiempo real
-5️⃣ (Opcional) El sistema envía respuestas automáticas al correo del cliente
+- 1️⃣ El usuario completa el formulario en tu página
+- 2️⃣ Los datos llegan a n8n automáticamente
+- 3️⃣ Se guardan en Google Sheets
+- 4️⃣ Un dashboard muestra todo en tiempo real
+- 5️⃣ (Opcional) El sistema envía respuestas automáticas al correo del cliente
 
 ---
-🎯 Casos de uso reales
+Casos de uso reales
 
 Recepción de solicitudes o reclamos
 
@@ -76,7 +76,7 @@ Este proyecto puede escalarse fácilmente:
 - Panel admin con edición y filtrado
 
 ---
-🙌 Contáctame
+Contáctame
 -
 
 
