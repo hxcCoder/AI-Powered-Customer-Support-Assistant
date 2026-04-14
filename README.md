@@ -5,15 +5,15 @@ Dashboard Inteligente – Automatización con n8n + Google Sheets + IA
 Optimiza tu negocio automatizando la recolección, almacenamiento y visualización de datos desde cualquier formulario web
 
 ---
-🌟 ¿Qué hace esta solución?
+¿Qué hace esta solución?
 
-Formulario moderno y rápido (HTML/CSS/JS)
+- Formularios modernos y rápidos (HTML/CSS/JS)
 
-Guarda los datos automáticamente en Google Sheets o el sistema que uses
+- Guarda los datos automáticamente en Google Sheets o el sistema que uses
 
-Responde al cliente al instante (opcional con IA)
+- Responde al cliente al instante (opcional con IA)
 
-Dashboard en tiempo real para ver todos los registros
+- Dashboard en tiempo real para ver todos los registros
 
 Funciona 100% solo. No tienes que hacer nada.
 ---
@@ -48,17 +48,18 @@ Funciona 100% solo. No tienes que hacer nada.
 - 5️⃣ (Opcional) El sistema envía respuestas automáticas al correo del cliente
 
 ---
-Casos de uso reales
+Casos de uso 
+-
 
-Recepción de solicitudes o reclamos
+- Recepción de solicitudes o reclamos
 
-Formularios de servicios
+- Formularios de servicios
 
-Reservas o atención al cliente
+- Reservas o atención al cliente
 
-Empresas que necesitan reportes automáticos
+- Empresas que necesitan reportes automáticos
 
-Negocios que quieren reducir tareas repetitivas
+- Negocios que quieren reducir tareas repetitivas
 
 ---
 📈 Escalabilidad
